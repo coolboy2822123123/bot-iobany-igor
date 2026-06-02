@@ -2,5 +2,4 @@
 python.github_attestations = false
 
 [tools]
-python = "3.13.2"
-EOF
+python = "3.13.2"
